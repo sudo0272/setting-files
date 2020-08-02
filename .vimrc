@@ -40,7 +40,7 @@ endif
 " Set cursor to block
 set guicursor=
 " Set number row to hybrid mode
-set number relativenumber
+set number
 " Sync with system clipboard
 set clipboard=unnamed
 " tab settings
