@@ -42,7 +42,7 @@ set guicursor=
 " Set number row to hybrid mode
 set number
 " Sync with system clipboard
-set clipboard=unnamed
+set clipboard=unnamedplus
 " tab settings
 set tabstop=2
 set shiftwidth=2
